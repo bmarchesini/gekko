@@ -47,6 +47,16 @@ Read more in the [architecture documentation](../internals/architecture.md).
 * The title is inspired by [Bateman](https://github.com/fearofcode/bateman).
 * This project is inspired by the [GoxTradingBot](https://github.com/virtimus/GoxTradingBot/) Chrome plugin (which in turn is inspired by [Goomboo's journal](https://bitcointalk.org/index.php?topic=60501.0)).
 
+## The risk of someone having access to your gekko:
+
+There are various risks associated with the appropriation of your Gekko account by someone else:
+
+- they can see your bots
+- they can start/stop bots
+- they can run many backtests that will basically DOS your server
+
+To protect yourself, do not disclose any information about your Gekko.
+
 ## Final
 
 If Gekko helped you in any way, you can always leave me a tip at (BTC) 13r1jyivitShUiv9FJvjLH7Nh1ZZptumwW
